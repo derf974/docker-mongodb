@@ -1,5 +1,5 @@
 # docker-mongodb
 
 
-Simple mongodb on debian docker's container.
+Simple DockerFile mongodb on debian docker's container.
 --------------------------------------------------
