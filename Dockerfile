@@ -8,6 +8,8 @@ RUN apt-get install -y mongodb
 
 RUN mkdir -p /data/db
 
+USER mongodb
+
 VOLUME /data
 
 EXPOSE 27017
